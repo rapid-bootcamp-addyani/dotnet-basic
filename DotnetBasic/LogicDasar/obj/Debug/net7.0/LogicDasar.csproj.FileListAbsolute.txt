@@ -1,0 +1,15 @@
+D:\data\coding\bootcamp\rapid\dotnet\dotnet-basic\DotnetBasic\LogicDasar\bin\Debug\net7.0\LogicDasar.exe
+D:\data\coding\bootcamp\rapid\dotnet\dotnet-basic\DotnetBasic\LogicDasar\bin\Debug\net7.0\LogicDasar.deps.json
+D:\data\coding\bootcamp\rapid\dotnet\dotnet-basic\DotnetBasic\LogicDasar\bin\Debug\net7.0\LogicDasar.runtimeconfig.json
+D:\data\coding\bootcamp\rapid\dotnet\dotnet-basic\DotnetBasic\LogicDasar\bin\Debug\net7.0\LogicDasar.dll
+D:\data\coding\bootcamp\rapid\dotnet\dotnet-basic\DotnetBasic\LogicDasar\bin\Debug\net7.0\LogicDasar.pdb
+D:\data\coding\bootcamp\rapid\dotnet\dotnet-basic\DotnetBasic\LogicDasar\obj\Debug\net7.0\LogicDasar.csproj.AssemblyReference.cache
+D:\data\coding\bootcamp\rapid\dotnet\dotnet-basic\DotnetBasic\LogicDasar\obj\Debug\net7.0\LogicDasar.GeneratedMSBuildEditorConfig.editorconfig
+D:\data\coding\bootcamp\rapid\dotnet\dotnet-basic\DotnetBasic\LogicDasar\obj\Debug\net7.0\LogicDasar.AssemblyInfoInputs.cache
+D:\data\coding\bootcamp\rapid\dotnet\dotnet-basic\DotnetBasic\LogicDasar\obj\Debug\net7.0\LogicDasar.AssemblyInfo.cs
+D:\data\coding\bootcamp\rapid\dotnet\dotnet-basic\DotnetBasic\LogicDasar\obj\Debug\net7.0\LogicDasar.csproj.CoreCompileInputs.cache
+D:\data\coding\bootcamp\rapid\dotnet\dotnet-basic\DotnetBasic\LogicDasar\obj\Debug\net7.0\LogicDasar.dll
+D:\data\coding\bootcamp\rapid\dotnet\dotnet-basic\DotnetBasic\LogicDasar\obj\Debug\net7.0\refint\LogicDasar.dll
+D:\data\coding\bootcamp\rapid\dotnet\dotnet-basic\DotnetBasic\LogicDasar\obj\Debug\net7.0\LogicDasar.pdb
+D:\data\coding\bootcamp\rapid\dotnet\dotnet-basic\DotnetBasic\LogicDasar\obj\Debug\net7.0\LogicDasar.genruntimeconfig.cache
+D:\data\coding\bootcamp\rapid\dotnet\dotnet-basic\DotnetBasic\LogicDasar\obj\Debug\net7.0\ref\LogicDasar.dll
