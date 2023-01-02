@@ -14,23 +14,24 @@ namespace LogicDasar
 
         public static void CetakData(int n)
         {
+            string[,] deret = new string[n, n];
             for (int i = 0; i < n; i++)
             {
-                int angka = 1;
                 for (int j = 0; j < n; j++)
                 {
-                    if (i == j || i + j == n - 1)
-                    {
-                        Console.Write(angka + "\t");
-                    }
-                    else
-                    {
-                        Console.Write("\t");
-                    }
-
-                    angka += 2;
+                    if (i == j) deret[i, j] = (j + 1).ToString();
+                    else if (i == n - j - 1) deret[i, j] = (j + 1).ToString();
+                    else deret[i, j] = " ";
                 }
-                Console.WriteLine("\n");
+            }
+
+            for (int i = 0; i < n; i++)
+            {
+                for (int j = 0; j < n; j++)
+                {
+                    Console.Write(deret[i, j] + "\t");
+                }
+                Console.WriteLine("");
             }
         }
     }
