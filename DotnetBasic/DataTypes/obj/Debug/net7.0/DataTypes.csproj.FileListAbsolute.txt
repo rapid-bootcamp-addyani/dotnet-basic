@@ -1,0 +1,15 @@
+D:\data\coding\bootcamp\rapid\dotnet\dotnet-basic\DotnetBasic\DataTypes\bin\Debug\net7.0\DataTypes.exe
+D:\data\coding\bootcamp\rapid\dotnet\dotnet-basic\DotnetBasic\DataTypes\bin\Debug\net7.0\DataTypes.deps.json
+D:\data\coding\bootcamp\rapid\dotnet\dotnet-basic\DotnetBasic\DataTypes\bin\Debug\net7.0\DataTypes.runtimeconfig.json
+D:\data\coding\bootcamp\rapid\dotnet\dotnet-basic\DotnetBasic\DataTypes\bin\Debug\net7.0\DataTypes.dll
+D:\data\coding\bootcamp\rapid\dotnet\dotnet-basic\DotnetBasic\DataTypes\bin\Debug\net7.0\DataTypes.pdb
+D:\data\coding\bootcamp\rapid\dotnet\dotnet-basic\DotnetBasic\DataTypes\obj\Debug\net7.0\DataTypes.csproj.AssemblyReference.cache
+D:\data\coding\bootcamp\rapid\dotnet\dotnet-basic\DotnetBasic\DataTypes\obj\Debug\net7.0\DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\data\coding\bootcamp\rapid\dotnet\dotnet-basic\DotnetBasic\DataTypes\obj\Debug\net7.0\DataTypes.AssemblyInfoInputs.cache
+D:\data\coding\bootcamp\rapid\dotnet\dotnet-basic\DotnetBasic\DataTypes\obj\Debug\net7.0\DataTypes.AssemblyInfo.cs
+D:\data\coding\bootcamp\rapid\dotnet\dotnet-basic\DotnetBasic\DataTypes\obj\Debug\net7.0\DataTypes.csproj.CoreCompileInputs.cache
+D:\data\coding\bootcamp\rapid\dotnet\dotnet-basic\DotnetBasic\DataTypes\obj\Debug\net7.0\DataTypes.dll
+D:\data\coding\bootcamp\rapid\dotnet\dotnet-basic\DotnetBasic\DataTypes\obj\Debug\net7.0\refint\DataTypes.dll
+D:\data\coding\bootcamp\rapid\dotnet\dotnet-basic\DotnetBasic\DataTypes\obj\Debug\net7.0\DataTypes.pdb
+D:\data\coding\bootcamp\rapid\dotnet\dotnet-basic\DotnetBasic\DataTypes\obj\Debug\net7.0\DataTypes.genruntimeconfig.cache
+D:\data\coding\bootcamp\rapid\dotnet\dotnet-basic\DotnetBasic\DataTypes\obj\Debug\net7.0\ref\DataTypes.dll

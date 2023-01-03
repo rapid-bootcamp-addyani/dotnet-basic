@@ -7,7 +7,7 @@ public class MainLogic
         Console.WriteLine("Masukan Angka :");
         string? input = Console.ReadLine();
         int n = input == null ? 0 : int.Parse(input);
-
+        
         Console.WriteLine("\nLogic 1 Soal Nomor 1:");
         Logic01Soal01.CetakData(n);
         Console.WriteLine("\nLogic 1 Soal Nomor 2:");
@@ -49,5 +49,15 @@ public class MainLogic
         Logic02Soal09.CetakData(n);
         Console.WriteLine("\nLogic 2 Soal Nomor 10:");
         Logic02Soal10.CetakData(n);
+        
+
+        /*
+        Console.WriteLine("\nLogic 3 Soal Nomor 1:");
+        Logic03Soal01.CetakData(n);
+        Console.WriteLine("\nLogic 3 Soal Nomor 2:");
+        Logic03Soal02.CetakData(n);
+        Console.WriteLine("\nLogic 3 Soal Nomor 3:");
+        Logic03Soal03.CetakData(n);
+        */
     }
 }
