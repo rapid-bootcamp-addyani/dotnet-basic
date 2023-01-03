@@ -1,0 +1,15 @@
+D:\data\coding\bootcamp\rapid\dotnet\dotnet-basic\DotnetBasic\ConvertingTypes\bin\Debug\net7.0\ConvertingTypes.exe
+D:\data\coding\bootcamp\rapid\dotnet\dotnet-basic\DotnetBasic\ConvertingTypes\bin\Debug\net7.0\ConvertingTypes.deps.json
+D:\data\coding\bootcamp\rapid\dotnet\dotnet-basic\DotnetBasic\ConvertingTypes\bin\Debug\net7.0\ConvertingTypes.runtimeconfig.json
+D:\data\coding\bootcamp\rapid\dotnet\dotnet-basic\DotnetBasic\ConvertingTypes\bin\Debug\net7.0\ConvertingTypes.dll
+D:\data\coding\bootcamp\rapid\dotnet\dotnet-basic\DotnetBasic\ConvertingTypes\bin\Debug\net7.0\ConvertingTypes.pdb
+D:\data\coding\bootcamp\rapid\dotnet\dotnet-basic\DotnetBasic\ConvertingTypes\obj\Debug\net7.0\ConvertingTypes.csproj.AssemblyReference.cache
+D:\data\coding\bootcamp\rapid\dotnet\dotnet-basic\DotnetBasic\ConvertingTypes\obj\Debug\net7.0\ConvertingTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\data\coding\bootcamp\rapid\dotnet\dotnet-basic\DotnetBasic\ConvertingTypes\obj\Debug\net7.0\ConvertingTypes.AssemblyInfoInputs.cache
+D:\data\coding\bootcamp\rapid\dotnet\dotnet-basic\DotnetBasic\ConvertingTypes\obj\Debug\net7.0\ConvertingTypes.AssemblyInfo.cs
+D:\data\coding\bootcamp\rapid\dotnet\dotnet-basic\DotnetBasic\ConvertingTypes\obj\Debug\net7.0\ConvertingTypes.csproj.CoreCompileInputs.cache
+D:\data\coding\bootcamp\rapid\dotnet\dotnet-basic\DotnetBasic\ConvertingTypes\obj\Debug\net7.0\ConvertingTypes.dll
+D:\data\coding\bootcamp\rapid\dotnet\dotnet-basic\DotnetBasic\ConvertingTypes\obj\Debug\net7.0\refint\ConvertingTypes.dll
+D:\data\coding\bootcamp\rapid\dotnet\dotnet-basic\DotnetBasic\ConvertingTypes\obj\Debug\net7.0\ConvertingTypes.pdb
+D:\data\coding\bootcamp\rapid\dotnet\dotnet-basic\DotnetBasic\ConvertingTypes\obj\Debug\net7.0\ConvertingTypes.genruntimeconfig.cache
+D:\data\coding\bootcamp\rapid\dotnet\dotnet-basic\DotnetBasic\ConvertingTypes\obj\Debug\net7.0\ref\ConvertingTypes.dll

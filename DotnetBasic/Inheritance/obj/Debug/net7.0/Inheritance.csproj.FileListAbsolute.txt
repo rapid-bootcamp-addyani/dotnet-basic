@@ -1,0 +1,15 @@
+D:\data\coding\bootcamp\rapid\dotnet\dotnet-basic\DotnetBasic\Inheritance\bin\Debug\net7.0\Inheritance.exe
+D:\data\coding\bootcamp\rapid\dotnet\dotnet-basic\DotnetBasic\Inheritance\bin\Debug\net7.0\Inheritance.deps.json
+D:\data\coding\bootcamp\rapid\dotnet\dotnet-basic\DotnetBasic\Inheritance\bin\Debug\net7.0\Inheritance.runtimeconfig.json
+D:\data\coding\bootcamp\rapid\dotnet\dotnet-basic\DotnetBasic\Inheritance\bin\Debug\net7.0\Inheritance.dll
+D:\data\coding\bootcamp\rapid\dotnet\dotnet-basic\DotnetBasic\Inheritance\bin\Debug\net7.0\Inheritance.pdb
+D:\data\coding\bootcamp\rapid\dotnet\dotnet-basic\DotnetBasic\Inheritance\obj\Debug\net7.0\Inheritance.csproj.AssemblyReference.cache
+D:\data\coding\bootcamp\rapid\dotnet\dotnet-basic\DotnetBasic\Inheritance\obj\Debug\net7.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\data\coding\bootcamp\rapid\dotnet\dotnet-basic\DotnetBasic\Inheritance\obj\Debug\net7.0\Inheritance.AssemblyInfoInputs.cache
+D:\data\coding\bootcamp\rapid\dotnet\dotnet-basic\DotnetBasic\Inheritance\obj\Debug\net7.0\Inheritance.AssemblyInfo.cs
+D:\data\coding\bootcamp\rapid\dotnet\dotnet-basic\DotnetBasic\Inheritance\obj\Debug\net7.0\Inheritance.csproj.CoreCompileInputs.cache
+D:\data\coding\bootcamp\rapid\dotnet\dotnet-basic\DotnetBasic\Inheritance\obj\Debug\net7.0\Inheritance.dll
+D:\data\coding\bootcamp\rapid\dotnet\dotnet-basic\DotnetBasic\Inheritance\obj\Debug\net7.0\refint\Inheritance.dll
+D:\data\coding\bootcamp\rapid\dotnet\dotnet-basic\DotnetBasic\Inheritance\obj\Debug\net7.0\Inheritance.pdb
+D:\data\coding\bootcamp\rapid\dotnet\dotnet-basic\DotnetBasic\Inheritance\obj\Debug\net7.0\Inheritance.genruntimeconfig.cache
+D:\data\coding\bootcamp\rapid\dotnet\dotnet-basic\DotnetBasic\Inheritance\obj\Debug\net7.0\ref\Inheritance.dll
